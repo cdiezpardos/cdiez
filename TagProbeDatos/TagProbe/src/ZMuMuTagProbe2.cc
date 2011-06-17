@@ -1,6 +1,4 @@
 /* class ZMuMuTagProbeAnalyzer *  ZMuMuTagProbe Analyzer modified t
- include *many* more plots than the standard 
- *  Specially devoted to MET & Bckg studies
  *  \author C. Diez
  */
 
